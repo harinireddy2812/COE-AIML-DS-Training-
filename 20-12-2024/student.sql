@@ -392,3 +392,4 @@ mysql> SELECT city,MAX(marks) as top_marks
 11 rows in set (0.00 sec)
 
 mysql>
+
